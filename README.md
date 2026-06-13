@@ -9,4 +9,5 @@
 <li><a href="https://github.com/Zandreas12345">Ανδρέας Ζιάκας</a></li>
 <li><a href="https://github.com/superj32">Παναγιώτης Μπούσης</a></li>
 <li><a href="https://github.com/Zemapel-Takis">Παναγιώτης Σταθόπουλος</a></li>
+<li><a href="https://github.com/Zemapel-Takis">Νίκος Παπαναστασίου</a></li>
 </ol>
