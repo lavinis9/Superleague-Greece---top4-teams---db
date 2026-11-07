@@ -27,4 +27,7 @@
 <li><a href="https://github.com/superj32">Παναγιώτης Μπούσης</a></li>
 <li><a href="https://github.com/Zemapel-Takis">Παναγιώτης Σταθόπουλος</a></li>
 <li><a href="https://github.com/nichpap14-crypto">Νίκος Παπαναστασίου</a></li>
+
+<h3>ΠΑΡΑΚΑΤΩ ΚΑΙ ΣΤΑ ΑΓΓΛΙΚΑ</h3>
+<hr>
 </ul>
